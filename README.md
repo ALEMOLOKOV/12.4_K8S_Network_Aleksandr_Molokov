@@ -10,13 +10,13 @@
 
 ## Ответ
 
-#### Deployment - ![Deployment]()
+#### Deployment - ![Deployment](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/blob/bbf1fe9c87c4e4358a9faf2151f9a062db1ae73d/deployment.yaml)
 
-#### Service - ![Service]()
+#### Service - ![Service](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/blob/bbf1fe9c87c4e4358a9faf2151f9a062db1ae73d/service.yaml)
 
 ![1 2 service](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/5dfb9913-10b5-4c33-be76-bb33cac56a9a)
 
-#### Pod - ![Pod]()
+#### Pod - ![Pod](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/blob/bbf1fe9c87c4e4358a9faf2151f9a062db1ae73d/pod.yaml)
 
 ![1 1 pods and curl](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/022a3b15-c142-42fc-be9c-785ebfc3cd79)
 
