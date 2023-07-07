@@ -10,6 +10,35 @@
 
 ## Ответ
 
+#### Deployment - ![Deployment]()
+
+#### Service - ![Service]()
+
+![1 2 service](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/5dfb9913-10b5-4c33-be76-bb33cac56a9a)
+
+#### Pod - ![Pod]()
+
+![1 1 pods and curl](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/022a3b15-c142-42fc-be9c-785ebfc3cd79)
+
+### Curl
+
+#### Между подами
+
+![1 1 pods and curl](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/aec2be7b-3453-421b-9a80-c8f120191bcf)
+
+#### Service порты 9001 и 9002
+
+![1 2 service port 9001](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/9f7e9945-291b-46ca-b097-051172de6274)
+
+![1 2 service port 9002](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/8079da0c-a4ca-4b0f-a1e7-ed24cb8db986)
+
+
+### Проверка доступа по доменому имени сервиса
+
+![1 4 service dns name](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/4f51d0ac-9ce5-4f02-958e-82916cb8a557)
+
+![1 4 curl service dns](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/94d1c1b9-de40-498e-a628-13cc6b6567f8)
+
 ------
 
 ### Задание 2. Создать Service и обеспечить доступ к приложениям снаружи кластера
