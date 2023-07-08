@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: svc-deployment_NodePort
+  namespace: default
+spec:
+  selector:
+    app: deployment-12.4
+  ports:
+  - name: nginx
+    port: 80
+    protocol: TCP
+    nodePort: 31150
+  type: NodePort
