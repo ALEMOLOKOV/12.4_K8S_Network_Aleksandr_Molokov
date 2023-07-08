@@ -49,3 +49,21 @@
 
 ## Ответ
 
+### Service - ![Service](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/blob/f2f4bfa43b3eb8bd789f7df5d798e8b58140e502/service-nodeport.yaml)
+
+### Статус сервиса 
+
+![service](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/388e6d3a-2a6b-47a0-96b1-0d76996d4a07)
+
+### Проверка доспупа с локального ПК
+
+#### ВМ в YandexCloud
+
+![вм яндекс клауде](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/0e343663-4ef3-482d-9537-680651bebc74)
+
+#### Проверка доступа
+
+![local pc](https://github.com/ALEMOLOKOV/12.4_K8S_Network_Aleksandr_Molokov/assets/109212419/8b3031b9-9be2-4007-a38b-6ed0a6cd7c31)
+
+
+
